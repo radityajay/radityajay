@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Putu Agus Raditya Jayantara, people usually call me TARA
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning Laravel, Livewire, Tailwinds, Flutter, Go
 - 📫 How to reach me on Instagram: radityajayantara_ and Linkedin: https://www.linkedin.com/in/raditya-jayantara-7580b0234
 
 <!---
